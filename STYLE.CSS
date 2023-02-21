@@ -1,0 +1,28 @@
+
+body{
+  
+    background-color: darkorange ;
+    text-align:center;
+  
+    } 
+  
+  h4
+  {
+    font-size:30px;
+  }
+  a
+  {
+    Border-style:Solid;
+    Padding:5px;
+    Border-width:5px;
+     Border-color:darkred;
+    Border-radius:10px;
+    font-size:50px;
+      
+  }
+  #MINECRAFT
+  {
+    text-decoration:underline;
+    font-size:50px;
+    color:red;
+  }
